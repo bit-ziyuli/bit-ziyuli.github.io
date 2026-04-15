@@ -35,30 +35,10 @@ I serve as a reviewer for prestigious journals including *Pattern Recognition*, 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/neurips2025_cpp.png' alt="CPP" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Boheng Liu, **Ziyu Li\***, et al. Cognitive Predictive Processing: A Human-like Framework for Adaptive Exploration in Open-World Reinforcement Learning. **NeurIPS 2025**. **(CCF-A, Poster)**
 
-[Cognitive Predictive Processing: A Human-like Framework for Adaptive Exploration in Open-World Reinforcement Learning](https://github.com)
-
-Boheng Liu, **Ziyu Li\***, Chenghua Duan, Yutian Liu, Zhuo Wang, Xiuxing Li, Qing Li, Xia Wu
-
-*NeurIPS 2025* **(CCF-A, Poster)**
-- Proposes a human-like cognitive predictive processing framework for adaptive exploration in open-world RL, drawing inspiration from predictive coding in neuroscience.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/pr2026_pretrain.png' alt="PR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Graph pre-trained framework with spatio-temporal importance masking and fine-grained optimizing for neural decoding](https://github.com)
-
-**Ziyu Li**, Zhiyuan Zhu, Qing Li, Xia Wu\*
-
-*Pattern Recognition*, 2026, 170: 112006. **(CAS Zone 1 Top)**
-- Proposes a graph-based pre-trained framework with spatio-temporal importance masking for fMRI neural decoding.
-</div>
-</div>
-
+- **Ziyu Li**, Zhiyuan Zhu, Qing Li, Xia Wu\*. Graph pre-trained framework with spatio-temporal importance masking and fine-grained optimizing for neural decoding. *Pattern Recognition*, 2026, 170: 112006. **(CAS Zone 1 Top)**
+  
 - **Ziyu Li**, Zhiyuan Zhu, Qing Li, Xia Wu\*. Decoding the Brain via Multi-view Brain Topology Contrastive Learning. *Pattern Recognition*, 2026, 172: 112445. **(CAS Zone 1 Top)**
 
 - **Ziyu Li**, Qing Li, Xiuxing Li, Zhuo Wang, Xia Wu\*. Dual-Brain Fusion: Bidirectional Empowerment Between Human Brain and Brain-Inspired Systems. *Fundamental Research*, 2026. Accepted. **(国家自然科学基金委主办)**
